@@ -125,9 +125,24 @@
               <div class="card">
                   <img class="quotes" src="assets/images/quotes.svg" alt="alternative" />
                   <div class="card-body">
-                      <p class="testimonial-text">Suspendisse vitae enim arcu. Aliqu convallis risus a felis blandit, at mollis nisi bibendum aliquam noto ricos</p>
-                      <div class="testimonial-author">{{ githubData[0].full_name }}</div>
-                      <div class="occupation">General Manager, Presentop</div>
+                      <div class="testimonial-author">GroceryUs</div>
+                      <p class="testimonial-text"><a class="btn-solid-lg" href="https://github.com/ztnuyu/GroceryUsFYP" target="_black">View project on Github</a></p>
+                      <div class="occupation">
+                        <ul class="list-unstyled li-space-lg">
+                      <li class="d-flex">
+                          <i class="fas fa-star"></i>
+                          <div class="flex-grow-1">Final year project for my degree which is an e-Commerce, Trading Platform & Tracking system.</div>
+                      </li>
+                      <li class="d-flex">
+                          <i class="fas fa-star"></i>
+                          <div class="flex-grow-1">System is developed by using Android and Firebase as its database. Integrate payment by using Stripe.</div>
+                      </li>
+                      <li class="d-flex">
+                          <i class="fas fa-star"></i>
+                          <div class="flex-grow-1">Grade achieved: A</div>
+                      </li>
+                  </ul>
+            </div>
                   </div>
                   <div class="gradient-floor red-to-blue"></div>
               </div>
@@ -137,60 +152,45 @@
               <div class="card">
                   <img class="quotes" src="assets/images/quotes.svg" alt="alternative" />
                   <div class="card-body">
-                      <p class="testimonial-text">Suspendisse vitae enim arcu. Aliqu convallis risus a felis blandit, at mollis nisi bibendum aliquam noto ricos</p>
-                      <div class="testimonial-author">Sam Bloom</div>
-                      <div class="occupation">General Manager, Presentop</div>
-                  </div>
-                  <div class="gradient-floor blue-to-purple"></div>
-              </div>
-            
-
-              
-              <div class="card">
-                  <img class="quotes" src="assets/images/quotes.svg" alt="alternative" />
-                  <div class="card-body">
-                      <p class="testimonial-text">Suspendisse vitae enim arcu. Aliqu convallis risus a felis blandit, at mollis nisi bibendum aliquam noto ricos</p>
-                      <div class="testimonial-author">Bill McKenzie</div>
-                      <div class="occupation">General Manager, Presentop</div>
-                  </div>
-                  <div class="gradient-floor purple-to-green"></div>
-              </div>
-            
-              
-              
-              <div class="card">
-                  <img class="quotes" src="assets/images/quotes.svg" alt="alternative" />
-                  <div class="card-body">
-                      <p class="testimonial-text">Suspendisse vitae enim arcu. Aliqu convallis risus a felis blandit, at mollis nisi bibendum aliquam noto ricos</p>
-                      <div class="testimonial-author">Vanya Dropper</div>
-                      <div class="occupation">General Manager, Presentop</div>
-                  </div>
-                  <div class="gradient-floor red-to-blue"></div>
-              </div>
-            
-
-              
-              <div class="card">
-                  <img class="quotes" src="assets/images/quotes.svg" alt="alternative" />
-                  <div class="card-body">
-                      <p class="testimonial-text">Suspendisse vitae enim arcu. Aliqu convallis risus a felis blandit, at mollis nisi bibendum aliquam noto ricos</p>
-                      <div class="testimonial-author">Lefty Brown</div>
-                      <div class="occupation">General Manager, Presentop</div>
-                  </div>
-                  <div class="gradient-floor blue-to-purple"></div>
-              </div>
-            
-
-              
-              <div class="card">
-                  <img class="quotes" src="assets/images/quotes.svg" alt="alternative" />
-                  <div class="card-body">
-                      <p class="testimonial-text">Suspendisse vitae enim arcu. Aliqu convallis risus a felis blandit, at mollis nisi bibendum aliquam noto ricos</p>
-                      <div class="testimonial-author">Susane Blake</div>
-                      <div class="occupation">General Manager, Presentop</div>
+                      <div class="testimonial-author">Social Distancing Detector Project</div>
+                      <p class="testimonial-text"><a class="btn-solid-lg" href="https://github.com/ztnuyu/SocialDistancingDetectorProject" target="_black">View project on Github</a></p>
+                      <div class="occupation">
+                        <ul class="list-unstyled li-space-lg">
+                      <li class="d-flex">
+                          <i class="fas fa-star"></i>
+                          <div class="flex-grow-1">AI project developed with Python. The project distinguishes the social distancing pattern and classifies them as a violation of social distancing or maintaining the social distancing norm.</div>
+                      </li>
+                      <li class="d-flex">
+                          <i class="fas fa-star"></i>
+                          <div class="flex-grow-1">Grade achieved: A</div>
+                      </li>
+                  </ul>
+                      </div>
                   </div>
                   <div class="gradient-floor purple-to-green"></div>
-              </div>          
+              </div> 
+
+              
+              <div class="card">
+                  <img class="quotes" src="assets/images/quotes.svg" alt="alternative" />
+                  <div class="card-body">
+                      <div class="testimonial-author">UTeM Event Management System</div>
+                      <p class="testimonial-text"><a class="btn-solid-lg" href="https://github.com/i5mat/UEMS" target="_black">View project on Github</a></p>
+                      <div class="occupation">
+                        <ul class="list-unstyled li-space-lg">
+                      <li class="d-flex">
+                          <i class="fas fa-star"></i>
+                          <div class="flex-grow-1">Workshop 2 of my degree which is an event system for UTeM. It is developed by using Laravel, jQuery, Android and MySQL as its database. This system is available in Web & Mobile.</div>
+                      </li>
+                      <li class="d-flex">
+                          <i class="fas fa-star"></i>
+                          <div class="flex-grow-1">Grade achieved: A</div>
+                      </li>
+                  </ul>
+                      </div>
+                  </div>
+                  <div class="gradient-floor purple-to-green"></div>
+              </div>           
 
           </div> 
       </div>
