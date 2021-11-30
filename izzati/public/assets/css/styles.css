@@ -10,7 +10,7 @@ body, p {
 }
 
 h1 {
-	color: #223150;
+	color: #7d55a5;
 	font-weight: 700;
 	font-size: 2.5rem;
 	line-height: 3.25rem;
@@ -18,7 +18,7 @@ h1 {
 }
 
 h2 {
-	color: #223150;
+	color: #7d55a5;
 	font-weight: 700;
 	font-size: 2rem;
 	line-height: 2.5rem;
@@ -26,7 +26,7 @@ h2 {
 }
 
 h3 {
-	color: #223150;
+	color: #7d55a5;
 	font-weight: 700;
 	font-size: 1.75rem;
 	line-height: 2.25rem;
@@ -34,7 +34,7 @@ h3 {
 }
 
 h4 {
-	color: #223150;
+	color: #7d55a5;
 	font-weight: 700;
 	font-size: 1.5rem;
 	line-height: 2rem;
@@ -42,14 +42,14 @@ h4 {
 }
 
 h5 {
-	color: #223150;
+	color: #7d55a5;
 	font-weight: 700;
 	font-size: 1.25rem;
 	line-height: 1.625rem;
 }
 
 h6 {
-	color: #223150;
+	color: #7d55a5;
 	font-weight: 700;
 	font-size: 1rem;
 	line-height: 1.375rem;
@@ -80,12 +80,12 @@ h6 {
 }
 
 a {
-	color: #5e6576;
+	color: #7d55a5;
 	text-decoration: underline;
 }
 
 a:hover {
-	color: #5e6576;
+	color: #7d55a5;
 	text-decoration: underline;
 }
 
@@ -127,9 +127,9 @@ a:hover {
 .btn-solid-reg {
 	display: inline-block;
 	padding: 1.375rem 2.25rem 1.375rem 2.25rem;
-	border: 1px solid #0092ff;
+	border: 1px solid #7d55a5;
 	border-radius: 30px;
-	background-color: #0092ff;
+	background-color: #7d55a5;
 	color: #ffffff;
 	font-weight: 600;
 	font-size: 0.875rem;
@@ -140,16 +140,16 @@ a:hover {
 
 .btn-solid-reg:hover {
 	background-color: transparent;
-	color: #0092ff; /* needs to stay here because of the color property of a tag */
+	color: #7d55a5; /* needs to stay here because of the color property of a tag */
 	text-decoration: none;
 }
 
 .btn-solid-lg {
 	display: inline-block;
 	padding: 1.625rem 2.625rem 1.625rem 2.625rem;
-	border: 1px solid #0092ff;
+	border: 1px solid #7d55a5;
 	border-radius: 30px;
-	background-color: #0092ff;
+	background-color: #7d55a5;
 	color: #ffffff;
 	font-weight: 600;
 	font-size: 0.875rem;
@@ -160,16 +160,16 @@ a:hover {
 
 .btn-solid-lg:hover {
 	background-color: transparent;
-	color: #0092ff; /* needs to stay here because of the color property of a tag */
+	color: #7d55a5; /* needs to stay here because of the color property of a tag */
 	text-decoration: none;
 }
 
 .btn-solid-sm {
 	display: inline-block;
 	padding: 1rem 1.5rem 1rem 1.5rem;
-	border: 1px solid #0092ff;
+	border: 1px solid #7d55a5;
 	border-radius: 30px;
-	background-color: #0092ff;
+	background-color: #7d55a5;
 	color: #ffffff;
 	font-weight: 600;
 	font-size: 0.875rem;
@@ -180,7 +180,7 @@ a:hover {
 
 .btn-solid-sm:hover {
 	background-color: transparent;
-	color: #0092ff; /* needs to stay here because of the color property of a tag */
+	color: #7d55a5; /* needs to stay here because of the color property of a tag */
 	text-decoration: none;
 }
 

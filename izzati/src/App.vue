@@ -5,7 +5,7 @@
 
     
     
-       <a class="navbar-brand logo-text" href="#">Jassa</a> 
+       <a class="navbar-brand logo-text" href="#">Izzati Suhaimi</a> 
 
       <button class="navbar-toggler p-0 border-0" type="button" id="navbarSideCollapse" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
@@ -17,10 +17,10 @@
                   <a class="nav-link active" aria-current="page" href="#header">Home</a>
               </li>
               <li class="nav-item">
-                  <a class="nav-link" href="#services">Services</a>
+                  <a class="nav-link" href="#about">About</a>
               </li>
               <li class="nav-item">
-                  <a class="nav-link" href="#details">Details</a>
+                  <a class="nav-link" href="#skills">Skills</a>
               </li>
               <li class="nav-item">
                   <a class="nav-link" href="#features">Features</a>
@@ -48,83 +48,32 @@
       <div class="row">
           <div class="col-lg-6 col-xl-5">
               <div class="text-container">
-                  <h1 class="h1-large">Find influencers for your products</h1>
-                  <p class="p-large">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut dignissim, neque ut ultrices sollicitudin</p>
-                  <a class="btn-solid-lg" href="#services">Offered services</a>
+                  <h1 class="h1-large">Hello, Im Izzati Suhaimi</h1>
+                  <p class="p-large">A passionate learner who is currently enrolled at UTeM and majoring in Software Engineering. </p>
+                  <a class="btn-solid-lg" href="https://www.linkedin.com/in/nurul-izzati-suhaimi-80b538209/" target="_black">Click here to view my resume</a>
               </div>
           </div> 
           <div class="col-lg-6 col-xl-7">
               <div class="image-container">
-                  <img class="img-fluid" src="assets/images/header-image.png" alt="alternative" />
+                  <img class="img-fluid" src="assets/images/creativity.png" alt="alternative" />
               </div> 
           </div> 
       </div> 
   </div> 
 </header> 
 
-<div id="services" class="cards-1 bg-gray">
-  <div class="container">
-      <div class="row">
-          <div class="col-lg-12">
-              <h2>Explore our services</h2>
-          </div> 
-      </div>
-      <div class="row">
-          <div class="col-lg-12">
-              
-            
-              <div class="card">
-                  <div class="card-icon">
-                      <span class="fas fa-headphones-alt"></span>
-                  </div>
-                  <div class="card-body">
-                      <h5 class="card-title">Analyse your product</h5>
-                      <p>Et blandit nisl libero at arcu. Donec ac lectus sed tellus mollis viverra. Nullam pharetra ante at nunc elementum</p>
-                      <a class="read-more no-line" href="#">Learn more <span class="fas fa-long-arrow-alt-right"></span></a>
-                  </div>
-              </div>
-          
-              <div class="card">
-                  <div class="card-icon red">
-                      <span class="far fa-clipboard"></span>
-                  </div>
-                  <div class="card-body">
-                      <h5 class="card-title">Evaluate opportunities</h5>
-                      <p>Vulputate nibh feugiat. Morbi pellent diam nec libero lacinia, sed ultrices velit scelerisque. Nunc placerat justo sem</p>
-                      <a class="read-more no-line" href="#">Learn more <span class="fas fa-long-arrow-alt-right"></span></a>
-                  </div>
-              </div>
-            
-              <div class="card">
-                  <div class="card-icon green">
-                      <span class="far fa-comments"></span>
-                  </div>
-                  <div class="card-body">
-                      <h5 class="card-title">Find the influencers</h5>
-                      <p>Ety suscipit metus sollicitudin euqu isq imperdiet nibh nec magna tincidunt, nec pala vehicula neque sodales verum</p>
-                      <a class="read-more no-line" href="#">Learn more <span class="fas fa-long-arrow-alt-right"></span></a>
-                  </div>
-              </div>
-              
-
-          </div>
-      </div>
-  </div>
-</div> 
-<div id="details" class="basic-1">
+<div id="about" class="basic-1">
   <div class="container">
       <div class="row">
           <div class="col-lg-6 col-xl-7">
               <div class="image-container">
-                  <img class="img-fluid" src="assets/images/details-1.png" alt="alternative" />
+                  <img class="img-fluid" src="assets/images/learning.png" alt="alternative" />
               </div> 
           </div> 
           <div class="col-lg-6 col-xl-5">
               <div class="text-container">
-                  <div class="section-title">WHAT WE DO</div>
-                  <h2>The right influencer can boost your conversion</h2>
-                  <p>Etiam tempus condimentum congue. In sit amet nisi eget massa condimentum lobortis eget ac eros. In hac habitasse platea dictumst. Aenean molestie mauris eget sapien sagittis, a bibendum magna tincidunt</p>
-                  <a class="btn-solid-reg" href="#contact">Get quote</a>
+                  <h2>About Me</h2>
+                  <p class="p-large">This year, I'll be 22 years old, and I'm hoping to enhance my skills in system analyst and software testing to further my career. I'm looking for a fun way to learn more about project management, app development, and other software development topics at your company. I am a dynamic team player eager to contribute to the domains of system and networking, apps, and online development, as well as actively supporting a forward-thinking firm's success.</p>
               </div> 
           </div> 
       </div>
@@ -134,7 +83,7 @@
 
 
 
-<div class="basic-2">
+<div id="skills" class="basic-2">
   <div class="container">
       <div class="row">
           <div class="col-lg-6 col-xl-5">
@@ -147,7 +96,7 @@
           </div> 
           <div class="col-lg-6 col-xl-7">
               <div class="image-container">
-                  <img class="img-fluid" src="assets/images/details-2.png" alt="alternative" />
+                  <img class="img-fluid" src="assets/images/books.png" alt="alternative" />
               </div> 
           </div> 
       </div>
@@ -251,7 +200,7 @@
   <div class="container">
       <div class="row">
           <div class="col-lg-12">
-              <h2 class="h2-heading">Customer testimonials</h2>
+              <h2 class="h2-heading">Projects</h2>
           </div> 
       </div>
       <div class="row">
@@ -262,7 +211,7 @@
                   <img class="quotes" src="assets/images/quotes.svg" alt="alternative" />
                   <div class="card-body">
                       <p class="testimonial-text">Suspendisse vitae enim arcu. Aliqu convallis risus a felis blandit, at mollis nisi bibendum aliquam noto ricos</p>
-                      <div class="testimonial-author">Roe Smith</div>
+                      <div class="testimonial-author">{{ githubData[0].full_name }}</div>
                       <div class="occupation">General Manager, Presentop</div>
                   </div>
                   <div class="gradient-floor red-to-blue"></div>
@@ -511,3 +460,25 @@
 </button>
 </div>
 </template>
+
+<script>
+import axios from 'axios'
+export default ({
+    data() {
+        return {
+            githubData:[]
+        }
+    },
+    created(){
+        this.getGithubData()
+    },
+    methods:{
+        getGithubData(){
+            axios.get('https://api.github.com/users/ztnuyu/repos').then(resp => {
+            this.githubData = resp.data
+            console.log(resp.data);
+            });
+        }
+    }
+})
+</script>
