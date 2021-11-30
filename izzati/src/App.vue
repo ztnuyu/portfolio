@@ -28,6 +28,9 @@
               <li class="nav-item">
                   <a class="nav-link" href="#contact">Contact</a>
               </li>
+              <li class="nav-item">
+                  <a class="nav-link" href="#academic">Academic History</a>
+              </li>
           </ul>
       </div> 
   </div> 
@@ -228,6 +231,24 @@
                         <img class="img-fluid" src="assets/images/love-message.png" alt="alternative" />
                 </div> 
                 </div> 
+          </div> 
+      </div>
+  </div> 
+</div>
+
+<div id="academic" class="basic-1">
+  <div class="container">
+      <div class="row">
+          <div class="col-lg-6 col-xl-7">
+              <div class="image-container">
+                  <img class="img-fluid" src="assets/images/exam.png" alt="alternative" />
+              </div> 
+          </div> 
+          <div class="col-lg-6 col-xl-5">
+              <div class="text-container">
+                  <h2>Academic History</h2>
+                  <p class="p-large">I graduated high school in year 2016 and persue Diploma in IT at UTeM for 2 and a half years. After diploma, I decided to pursue my degree in UTeM for another 2 and a half years majoring in Software Development. With a passionate dream and ethusiast in learning STEM I've earned cgpa of 3.67. As a final year student, I am interested to gain experience in your company to enchance my skills.</p>
+              </div> 
           </div> 
       </div>
   </div> 
