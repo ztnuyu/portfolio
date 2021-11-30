@@ -23,22 +23,12 @@
                   <a class="nav-link" href="#skills">Skills</a>
               </li>
               <li class="nav-item">
-                  <a class="nav-link" href="#features">Features</a>
+                  <a class="nav-link" href="#projects">Projects</a>
               </li>
-              <li class="nav-item dropdown">
-                  <a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-bs-toggle="dropdown" aria-expanded="false">Drop</a>
-                  <ul class="dropdown-menu" aria-labelledby="dropdown01">
-                      <li><a class="dropdown-item" href="#">Article Details</a></li>
-                      <li><div class="dropdown-divider"></div></li>
-                      <li><a class="dropdown-item" href="#">Terms Conditions</a></li>
-                      <li><div class="dropdown-divider"></div></li>
-                      <li><a class="dropdown-item" href="#">Privacy Policy</a></li>
-                  </ul>
+              <li class="nav-item">
+                  <a class="nav-link" href="#contact">Contact</a>
               </li>
           </ul>
-          <span class="nav-item">
-              <a class="btn-solid-sm" href="#contact">Get quote</a>
-          </span>
       </div> 
   </div> 
 </nav>
@@ -88,10 +78,27 @@
       <div class="row">
           <div class="col-lg-6 col-xl-5">
               <div class="text-container">
-                  <div class="section-title">ABOUT US</div>
-                  <h2>We have ten years experience in marketing</h2>
-                  <p>Etiam tempus condimentum congue. In sit amet nisi eget massa condimentum lobortis eget ac eros. In hac habitasse platea dictumst. Aenean molestie mauris eget sapien sagittis, a bibendum magna tincidunt</p>
-                  <a class="btn-outline-reg" href="#">Details</a>
+                  <h2>Skills</h2>
+                  <div class="section-title">C++/C#</div>
+                 <div class="progress">
+                    <div class="progress-bar progress-bar-striped" role="progressbar" style="width: 80%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100"></div>
+                    </div>
+                    <div class="section-title">Java</div>
+                    <div class="progress">
+                    <div class="progress-bar progress-bar-striped bg-success" role="progressbar" style="width: 65%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+                    </div>
+                    <div class="section-title">MySQL</div>
+                    <div class="progress">
+                    <div class="progress-bar progress-bar-striped bg-info" role="progressbar" style="width: 70%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
+                    </div>
+                    <div class="section-title">PHP, JavaScript</div>
+                    <div class="progress">
+                    <div class="progress-bar progress-bar-striped bg-warning" role="progressbar" style="width: 75%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+                    </div>
+                    <div class="section-title">Android</div>
+                    <div class="progress">
+                    <div class="progress-bar progress-bar-striped bg-danger" role="progressbar" style="width: 90%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+                    </div>
               </div> 
           </div> 
           <div class="col-lg-6 col-xl-7">
@@ -104,103 +111,11 @@
 </div> 
 
 
-
-
-<div id="features" class="accordion-1">
-  <div class="container">
-      <div class="row">
-          <div class="col-xl-12">
-              <h2 class="h2-heading">Online service features</h2>
-              <p class="p-heading">Suspendisse vitae enim arcu. Aliquam convallis risus a felis blandit, at mollis nisi bibendum. Aliquam nec purus at ex blandit posuere nec a odio. Proin lacinia dolor justo</p>
-          </div> 
-      </div>   
-      <div class="row">
-          <div class="col-xl-5">
-              <div class="accordion" id="accordionExample">
-                  
-                 
-                  <div class="accordion-item">
-                      <div class="accordion-icon">
-                          <span class="fas fa-tv"></span>
-                      </div> 
-                      <div class="accordion-header" id="headingOne">
-                          <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                              Analyse the product and design plan
-                          </button>
-                      </div>
-                      <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
-                          <div class="accordion-body">Mauris ornare libero et pharetra hendrerit. Cura elementum lectus quis tellus pretium, vitae lobortis dui sagittis aliquam et enim vel semon anticus</div>
-                      </div>
-                  </div>
-                 
-
-                 
-                  <div class="accordion-item">
-                      <div class="accordion-icon blue">
-                          <span class="fas fa-microphone"></span>
-                      </div> 
-                      <div class="accordion-header" id="headingTwo">
-                          <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                              Find the market opportunities
-                          </button>
-                      </div>
-                      <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
-                          <div class="accordion-body">Mauris ornare libero et pharetra hendrerit. Cura elementum lectus quis tellus pretium, vitae lobortis dui sagittis aliquam et enim vel semon anticus</div>
-                      </div>
-                  </div>
-                 
-
-                 
-                  <div class="accordion-item">
-                      <div class="accordion-icon purple">
-                          <span class="fas fa-video"></span>
-                      </div> 
-                      <div class="accordion-header" id="headingThree">
-                          <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                              Prepare the product launch campaign
-                          </button>
-                      </div>
-                      <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
-                          <div class="accordion-body">Mauris ornare libero et pharetra hendrerit. Cura elementum lectus quis tellus pretium, vitae lobortis dui sagittis aliquam et enim vel semon anticus</div>
-                      </div>
-                  </div>
-                 
-                  
-                 
-                  <div class="accordion-item">
-                      <div class="accordion-icon orange">
-                          <span class="fas fa-tools"></span>
-                      </div> 
-                      <div class="accordion-header" id="headingFour">
-                          <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                              Evaluate the campaign and adjust
-                          </button>
-                      </div>
-                      <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
-                          <div class="accordion-body">Mauris ornare libero et pharetra hendrerit. Cura elementum lectus quis tellus pretium, vitae lobortis dui sagittis aliquam et enim vel semon anticus</div>
-                      </div>
-                  </div>
-                 
-
-              </div> 
-          </div> 
-          <div class="col-xl-7">
-              <div class="image-container">
-                  <img class="img-fluid" src="assets/images/features-dashboard.png" alt="alternative"/>
-              </div> 
-          </div> 
-      </div>
-  </div> 
-</div> 
-
-
-
-
-<div class="cards-2 bg-gray">
+<div id="projects" class="cards-2 bg-gray">
   <div class="container">
       <div class="row">
           <div class="col-lg-12">
-              <h2 class="h2-heading">Projects</h2>
+              <h2 class="h2-heading">Recent Projects</h2>
           </div> 
       </div>
       <div class="row">
@@ -275,8 +190,7 @@
                       <div class="occupation">General Manager, Presentop</div>
                   </div>
                   <div class="gradient-floor purple-to-green"></div>
-              </div>
-            
+              </div>          
 
           </div> 
       </div>
@@ -284,109 +198,36 @@
 </div> 
 
 
-
-
-<div class="slider-1">
-  <div class="container">
-      <div class="row">
-          <div class="col-lg-12">
-              <h4>Trusted by over <span class="blue">5000</span> customers worldwide</h4>
-              <hr class="section-divider" />
-
-           
-              <div class="slider-container">
-                  <div class="swiper-container image-slider">
-                      <div class="swiper-wrapper">
-                          <div class="swiper-slide">
-                              <img class="img-fluid" src="assets/images/customer-logo-1.png" alt="alternative" />
-                          </div>
-                          <div class="swiper-slide">
-                              <img class="img-fluid" src="assets/images/customer-logo-2.png" alt="alternative" />
-                          </div>
-                          <div class="swiper-slide">
-                              <img class="img-fluid" src="assets/images/customer-logo-3.png" alt="alternative" />
-                          </div>
-                          <div class="swiper-slide">
-                              <img class="img-fluid" src="assets/images/customer-logo-4.png" alt="alternative" />
-                          </div>
-                          <div class="swiper-slide">
-                              <img class="img-fluid" src="assets/images/customer-logo-5.png" alt="alternative" />
-                          </div>
-                          <div class="swiper-slide">
-                              <img class="img-fluid" src="assets/images/customer-logo-6.png" alt="alternative" />
-                          </div>
-                      </div>
-                  </div> 
-              </div> 
-             
-
-          </div> 
-      </div>
-  </div> 
-</div> 
-
-
-
-]
-<div class="basic-3">
-  <div class="container">
-      <div class="row">
-          <div class="col-lg-12">
-              <div class="text-container">
-                  <h2>Find the right influencer for your product</h2>
-                  <p class="p-large">Eu convallis arcu ultrices in. Mauris ornare libero et pharetra hendrerit. Curabitur elementum lectus quis vioc tellus</p>
-                  <a class="btn-solid-lg" href="#contact">Get free quote</a>
-              </div> 
-          </div> 
-      </div>
-  </div> 
-</div> 
 <div id="contact" class="form-1">
   <div class="container">
       <div class="row">
           <div class="col-lg-6">
               <div class="text-container">
-                  <div class="section-title">GET QUOTE</div>
-                  <h2>Submit the form for quote</h2>
-                  <p>Aliquam et enim vel sem pulvinar suscipit sit amet quis lorem. Sed risus ipsum, egestas sed odio in, pulvinar euismod ipsum. Sed ut enim non nunc fermentum dictum et sit amet erat. Maecenas</p>
+                  <h2>Contact Me</h2>
+                  <p>Get connected to me.</p>
                   <ul class="list-unstyled li-space-lg">
                       <li class="d-flex">
                           <i class="fas fa-square"></i>
-                          <div class="flex-grow-1">Vel maximus nunc aliquam ut. Donec semper, magna a pulvinar</div>
+                          <div class="flex-grow-1">izzatisuhaimi@icloud.com</div>
                       </li>
                       <li class="d-flex">
                           <i class="fas fa-square"></i>
-                          <div class="flex-grow-1">Suscipit sit amet quis lorem. Sed risus ipsum, egestas mare</div>
+                          <div class="flex-grow-1">+60 11 2671 0575</div>
                       </li>
                       <li class="d-flex">
                           <i class="fas fa-square"></i>
-                          <div class="flex-grow-1">Sem pulvinar suscipit sit amet quis lorem. Sed risus</div>
+                          <div class="flex-grow-1">30, Jln SB 7, Taman Seri Bestari, 43900, Sepang, Selangor</div>
                       </li>
                   </ul>
+                  
               </div> 
           </div> 
           <div class="col-lg-6">
-
-             
-              <form>
-                  <div class="form-group">
-                      <input type="text" class="form-control-input" placeholder="Name" required />
-                  </div>
-                  <div class="form-group">
-                      <input type="email" class="form-control-input" placeholder="Email" required />
-                  </div>
-                  <div class="form-group">
-                      <input type="text" class="form-control-input" placeholder="Industry" required />
-                  </div>
-                  <div class="form-group">
-                      <input type="text" class="form-control-input" placeholder="Your product" required />
-                  </div>
-                  <div class="form-group">
-                      <button type="submit" class="form-control-submit-button">Submit</button>
-                  </div>
-              </form>
-            
-
+                  <div class="col-lg-6 col-xl-7">
+                    <div class="image-container">
+                        <img class="img-fluid" src="assets/images/love-message.png" alt="alternative" />
+                </div> 
+                </div> 
           </div> 
       </div>
   </div> 
@@ -397,7 +238,7 @@
   <div class="container">
       <div class="row">
           <div class="col-lg-12">
-              <h4>If you want to find out which are the right influencers for your product marketing campaigns then follow us</h4>
+              <h4>Get connected to me</h4>
               <div class="social-container">
                   <span class="fa-stack">
                       <a href="#your-link">
@@ -434,26 +275,6 @@
       </div>
   </div> 
 </div> 
-<div class="copyright bg-gray">
-  <div class="container">
-      <div class="row">
-          <div class="col-lg-6 col-md-12 col-sm-12">
-              <ul class="list-unstyled li-space-lg p-small">
-                  <li><a href="#">Article Details</a></li>
-                  <li><a href="#">Terms & Conditions</a></li>
-                  <li><a href="#">Privacy Policy</a></li>
-              </ul>
-          </div> 
-          <div class="col-lg-3 col-md-12 col-sm-12">
-              <p class="p-small statement">Copyright © <a href="#">Jassa</a></p>
-          </div> 
-
-          <div class="col-lg-3 col-md-12 col-sm-12">
-              <p class="p-small statement">Distributed by <a href="https://therichpost.com/" target="_blank">Jassa</a></p>
-          </div> 
-      </div> 
-  </div> 
-</div>
 
 <button id="myBtn">
   <img src="assets/images/up-arrow.png" alt="alternative" />
